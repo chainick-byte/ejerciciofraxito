@@ -1,0 +1,12 @@
+buenas !!!!
+
+1. tienes que crear una base de datos vacia llamada ejerciciofraxito
+
+2. ejecuta el comando "php artisan db:seed 
+--class=UsuariosTableSeeder"
+
+y con esto en teoria ya tienes cacho de aplicacion funcionando:)
+
+3.a parte tendras que instalar el bootstrap en el proyecto
+
+4. copiar enlaces de bootstrap y js de la pagina welcome (en el head) y copiarlos a la pagina "paginainicio","perfil"
